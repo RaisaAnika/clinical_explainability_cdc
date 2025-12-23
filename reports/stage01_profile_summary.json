@@ -1,0 +1,139 @@
+{
+  "rows": 4000,
+  "cols": 32,
+  "dtypes": {
+    "yearstart": "object",
+    "yearend": "object",
+    "locationabbr": "object",
+    "locationdesc": "object",
+    "datasource": "object",
+    "class": "object",
+    "topic": "object",
+    "question": "object",
+    "data_value_type": "object",
+    "data_value": "object",
+    "data_value_alt": "object",
+    "low_confidence_limit": "object",
+    "high_confidence_limit": "object",
+    "sample_size": "object",
+    "income": "object",
+    "geolocation": "object",
+    "classid": "object",
+    "topicid": "object",
+    "questionid": "object",
+    "datavaluetypeid": "object",
+    "locationid": "object",
+    "stratificationcategory1": "object",
+    "stratification1": "object",
+    "stratificationcategoryid1": "object",
+    "stratificationid1": "object",
+    "age_years": "object",
+    "race_ethnicity": "object",
+    "data_value_footnote_symbol": "object",
+    "data_value_footnote": "object",
+    "education": "object",
+    "sex": "object",
+    "total": "object"
+  },
+  "missing_percent": {
+    "total": 96.45,
+    "sex": 92.85,
+    "data_value_footnote": 87.675,
+    "data_value_footnote_symbol": 87.675,
+    "education": 85.725,
+    "age_years": 78.55,
+    "income": 74.975,
+    "race_ethnicity": 71.45,
+    "low_confidence_limit": 12.325,
+    "sample_size": 12.325,
+    "high_confidence_limit": 12.325,
+    "data_value": 12.325,
+    "data_value_alt": 12.325,
+    "geolocation": 1.4,
+    "locationid": 0.0,
+    "stratificationid1": 0.0,
+    "stratificationcategoryid1": 0.0,
+    "stratification1": 0.0,
+    "stratificationcategory1": 0.0,
+    "yearstart": 0.0,
+    "datavaluetypeid": 0.0,
+    "questionid": 0.0,
+    "topicid": 0.0,
+    "yearend": 0.0,
+    "data_value_type": 0.0,
+    "question": 0.0,
+    "topic": 0.0,
+    "class": 0.0,
+    "datasource": 0.0,
+    "locationdesc": 0.0,
+    "locationabbr": 0.0,
+    "classid": 0.0
+  },
+  "sample_values": {
+    "yearstart": [
+      "2011",
+      "2011",
+      "2011"
+    ],
+    "locationabbr": [
+      "AL",
+      "AL",
+      "AL"
+    ],
+    "locationdesc": [
+      "Alabama",
+      "Alabama",
+      "Alabama"
+    ],
+    "question": [
+      "Percent of adults aged 18 years and older who have obesity",
+      "Percent of adults aged 18 years and older who have obesity",
+      "Percent of adults aged 18 years and older who have obesity"
+    ],
+    "data_value": [
+      "34.8",
+      "35.8",
+      "32.3"
+    ],
+    "low_confidence_limit": [
+      "31.3",
+      "31.1",
+      "28.0"
+    ],
+    "high_confidence_limit": [
+      "38.5",
+      "40.8",
+      "36.8"
+    ],
+    "sample_size": [
+      "1367",
+      "757",
+      "861"
+    ],
+    "age_years": [
+      "18 - 24",
+      "25 - 34",
+      "35 - 44"
+    ],
+    "sex": [
+      "Female",
+      "Male",
+      "Female"
+    ],
+    "race_ethnicity": [
+      "2 or more races",
+      "American Indian/Alaska Native",
+      "Asian"
+    ],
+    "education": [
+      "College graduate",
+      "High school graduate",
+      "Less than high school"
+    ],
+    "income": [
+      "$15,000 - $24,999",
+      "$25,000 - $34,999",
+      "$35,000 - $49,999"
+    ]
+  }
+}
